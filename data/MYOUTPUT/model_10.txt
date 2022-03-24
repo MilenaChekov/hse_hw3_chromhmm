@@ -1,0 +1,311 @@
+10	10	E	-8065154.71460924	156
+probinit	1	0.0
+probinit	2	0.0
+probinit	3	0.0
+probinit	4	1.3474060817743866E-239
+probinit	5	1.0
+probinit	6	8.990801852188804E-97
+probinit	7	0.0
+probinit	8	0.0
+probinit	9	0.0
+probinit	10	0.0
+transitionprobs	1	1	0.8427270676985867
+transitionprobs	1	2	0.0614753463194458
+transitionprobs	1	3	6.526809472425736E-6
+transitionprobs	1	4	9.906501573483082E-4
+transitionprobs	1	5	1.6000726583036628E-4
+transitionprobs	1	6	3.1477540773970603E-4
+transitionprobs	1	7	0.008092869819907172
+transitionprobs	1	8	0.07915334049887114
+transitionprobs	1	9	0.006580615752736444
+transitionprobs	1	10	4.98800270061916E-4
+transitionprobs	2	1	0.05107976963577876
+transitionprobs	2	2	0.7193029974711097
+transitionprobs	2	3	0.12519286185506817
+transitionprobs	2	4	0.010198606459794037
+transitionprobs	2	5	0.004691434524677866
+transitionprobs	2	6	0.010611701304839698
+transitionprobs	2	7	0.07760483013257752
+transitionprobs	2	8	0.0013176609421712737
+transitionprobs	2	9	1.4083126195479706E-8
+transitionprobs	2	10	1.2359085672885268E-7
+transitionprobs	3	1	0.0
+transitionprobs	3	2	0.06613697070969747
+transitionprobs	3	3	0.6797745375056752
+transitionprobs	3	4	0.21546644196310488
+transitionprobs	3	5	0.00941729201358476
+transitionprobs	3	6	0.016298213391275337
+transitionprobs	3	7	0.012819408611843233
+transitionprobs	3	8	0.0
+transitionprobs	3	9	8.713580481914466E-5
+transitionprobs	3	10	0.0
+transitionprobs	4	1	5.934890275209966E-5
+transitionprobs	4	2	8.974568852757584E-4
+transitionprobs	4	3	0.035064111557693005
+transitionprobs	4	4	0.9491127829361944
+transitionprobs	4	5	0.00270849523821918
+transitionprobs	4	6	0.00513295541791879
+transitionprobs	4	7	0.007012408309319624
+transitionprobs	4	8	1.2440752627082284E-5
+transitionprobs	4	9	0.0
+transitionprobs	4	10	0.0
+transitionprobs	5	1	1.7263179425174829E-6
+transitionprobs	5	2	6.914078407125683E-5
+transitionprobs	5	3	2.611150721945843E-4
+transitionprobs	5	4	4.5788759294848E-4
+transitionprobs	5	5	0.9985739125011293
+transitionprobs	5	6	6.200336739060633E-4
+transitionprobs	5	7	1.5629379394486715E-8
+transitionprobs	5	8	1.294801353928219E-6
+transitionprobs	5	9	7.522837429002953E-6
+transitionprobs	5	10	7.350789645489659E-6
+transitionprobs	6	1	9.940435722345413E-6
+transitionprobs	6	2	3.584501873458889E-4
+transitionprobs	6	3	0.001126228657546347
+transitionprobs	6	4	0.002036776099878436
+transitionprobs	6	5	0.001452544432202293
+transitionprobs	6	6	0.9846924883356594
+transitionprobs	6	7	0.00763114814593343
+transitionprobs	6	8	1.6892991334869015E-5
+transitionprobs	6	9	2.3205778414886808E-4
+transitionprobs	6	10	0.0024434729302281223
+transitionprobs	7	1	0.003675929960490653
+transitionprobs	7	2	0.03746060396066515
+transitionprobs	7	3	0.01241908654874422
+transitionprobs	7	4	0.03957615257620439
+transitionprobs	7	5	2.3245739044387804E-6
+transitionprobs	7	6	0.11320130505951886
+transitionprobs	7	7	0.7553659560112563
+transitionprobs	7	8	0.009578478140203562
+transitionprobs	7	9	8.57799868956293E-4
+transitionprobs	7	10	0.02786236330005622
+transitionprobs	8	1	0.06837027572061002
+transitionprobs	8	2	0.0010205685773044962
+transitionprobs	8	3	3.564661345856076E-5
+transitionprobs	8	4	3.7003886654810806E-4
+transitionprobs	8	5	1.7215240125184985E-4
+transitionprobs	8	6	1.784077075960608E-4
+transitionprobs	8	7	0.0210454842238809
+transitionprobs	8	8	0.7399349299925395
+transitionprobs	8	9	0.1593158203884528
+transitionprobs	8	10	0.00955667550835775
+transitionprobs	9	1	0.0019943789184749946
+transitionprobs	9	2	1.891169670642522E-5
+transitionprobs	9	3	6.180495457470173E-5
+transitionprobs	9	4	8.891942788419607E-7
+transitionprobs	9	5	1.607978676378161E-4
+transitionprobs	9	6	0.0024923253786851207
+transitionprobs	9	7	4.0211935846234904E-4
+transitionprobs	9	8	0.05533092485576327
+transitionprobs	9	9	0.9099385484537545
+transitionprobs	9	10	0.02959929932166204
+transitionprobs	10	1	4.4031337339680975E-5
+transitionprobs	10	2	0.0
+transitionprobs	10	3	0.0
+transitionprobs	10	4	0.0
+transitionprobs	10	5	5.825339108288734E-5
+transitionprobs	10	6	0.009441849434154527
+transitionprobs	10	7	0.007341882491987292
+transitionprobs	10	8	0.0011557912409130844
+transitionprobs	10	9	0.009971107458150167
+transitionprobs	10	10	0.9719870846463722
+emissionprobs	1	0	H2az.bam	0	0.5360995945615107
+emissionprobs	1	0	H2az.bam	1	0.46390040543848937
+emissionprobs	1	1	H3k36me3.bam	0	0.8866478329318596
+emissionprobs	1	1	H3k36me3.bam	1	0.1133521670681405
+emissionprobs	1	2	H3k4me1.bam	0	0.6487582977765395
+emissionprobs	1	2	H3k4me1.bam	1	0.35124170222346046
+emissionprobs	1	3	H3k4me2.bam	0	0.031618693737642506
+emissionprobs	1	3	H3k4me2.bam	1	0.9683813062623575
+emissionprobs	1	4	H3k4me3.bam	0	0.0671142702463888
+emissionprobs	1	4	H3k4me3.bam	1	0.9328857297536112
+emissionprobs	1	5	H3k79me2.bam	0	0.048937337418481365
+emissionprobs	1	5	H3k79me2.bam	1	0.9510626625815186
+emissionprobs	1	6	H3k9ac.bam	0	0.05748178530027352
+emissionprobs	1	6	H3k9ac.bam	1	0.9425182146997264
+emissionprobs	1	7	H3k9me3.bam	0	0.9912509993698231
+emissionprobs	1	7	H3k9me3.bam	1	0.008749000630176907
+emissionprobs	1	8	H4k20me1.bam	0	0.9204305595015574
+emissionprobs	1	8	H4k20me1.bam	1	0.07956944049844267
+emissionprobs	1	9	Lsd1.bam	0	0.7296617713768084
+emissionprobs	1	9	Lsd1.bam	1	0.2703382286231915
+emissionprobs	2	0	H2az.bam	0	0.1791464417116676
+emissionprobs	2	0	H2az.bam	1	0.8208535582883324
+emissionprobs	2	1	H3k36me3.bam	0	0.9828803573726881
+emissionprobs	2	1	H3k36me3.bam	1	0.01711964262731189
+emissionprobs	2	2	H3k4me1.bam	0	0.47528571345393295
+emissionprobs	2	2	H3k4me1.bam	1	0.5247142865460671
+emissionprobs	2	3	H3k4me2.bam	0	0.10725890444224559
+emissionprobs	2	3	H3k4me2.bam	1	0.8927410955577544
+emissionprobs	2	4	H3k4me3.bam	0	0.25086378341911364
+emissionprobs	2	4	H3k4me3.bam	1	0.7491362165808864
+emissionprobs	2	5	H3k79me2.bam	0	0.9504323224970619
+emissionprobs	2	5	H3k79me2.bam	1	0.04956767750293809
+emissionprobs	2	6	H3k9ac.bam	0	0.28073984159698323
+emissionprobs	2	6	H3k9ac.bam	1	0.7192601584030168
+emissionprobs	2	7	H3k9me3.bam	0	0.9854755135819706
+emissionprobs	2	7	H3k9me3.bam	1	0.014524486418029394
+emissionprobs	2	8	H4k20me1.bam	0	0.9847338707339013
+emissionprobs	2	8	H4k20me1.bam	1	0.015266129266098704
+emissionprobs	2	9	Lsd1.bam	0	0.6143223807373599
+emissionprobs	2	9	Lsd1.bam	1	0.38567761926264005
+emissionprobs	3	0	H2az.bam	0	0.28848326951770403
+emissionprobs	3	0	H2az.bam	1	0.711516730482296
+emissionprobs	3	1	H3k36me3.bam	0	0.9919342095891036
+emissionprobs	3	1	H3k36me3.bam	1	0.008065790410896317
+emissionprobs	3	2	H3k4me1.bam	0	0.4961069979869052
+emissionprobs	3	2	H3k4me1.bam	1	0.5038930020130947
+emissionprobs	3	3	H3k4me2.bam	0	0.9307187549967674
+emissionprobs	3	3	H3k4me2.bam	1	0.06928124500323268
+emissionprobs	3	4	H3k4me3.bam	0	0.9534651009788722
+emissionprobs	3	4	H3k4me3.bam	1	0.04653489902112787
+emissionprobs	3	5	H3k79me2.bam	0	0.9964109932431733
+emissionprobs	3	5	H3k79me2.bam	1	0.0035890067568267944
+emissionprobs	3	6	H3k9ac.bam	0	0.9387246892721667
+emissionprobs	3	6	H3k9ac.bam	1	0.06127531072783335
+emissionprobs	3	7	H3k9me3.bam	0	0.9841810234076777
+emissionprobs	3	7	H3k9me3.bam	1	0.015818976592322256
+emissionprobs	3	8	H4k20me1.bam	0	0.9959196927237665
+emissionprobs	3	8	H4k20me1.bam	1	0.004080307276233494
+emissionprobs	3	9	Lsd1.bam	0	0.8689767368066487
+emissionprobs	3	9	Lsd1.bam	1	0.13102326319335134
+emissionprobs	4	0	H2az.bam	0	0.9588645546782212
+emissionprobs	4	0	H2az.bam	1	0.041135445321778846
+emissionprobs	4	1	H3k36me3.bam	0	0.9986593549657846
+emissionprobs	4	1	H3k36me3.bam	1	0.00134064503421533
+emissionprobs	4	2	H3k4me1.bam	0	0.9886862004256504
+emissionprobs	4	2	H3k4me1.bam	1	0.011313799574349673
+emissionprobs	4	3	H3k4me2.bam	0	0.9997288112584379
+emissionprobs	4	3	H3k4me2.bam	1	2.711887415620825E-4
+emissionprobs	4	4	H3k4me3.bam	0	0.9988292485106743
+emissionprobs	4	4	H3k4me3.bam	1	0.0011707514893255992
+emissionprobs	4	5	H3k79me2.bam	0	0.9998051303367063
+emissionprobs	4	5	H3k79me2.bam	1	1.948696632937026E-4
+emissionprobs	4	6	H3k9ac.bam	0	0.9996356013419566
+emissionprobs	4	6	H3k9ac.bam	1	3.643986580433871E-4
+emissionprobs	4	7	H3k9me3.bam	0	0.9837461396505176
+emissionprobs	4	7	H3k9me3.bam	1	0.01625386034948247
+emissionprobs	4	8	H4k20me1.bam	0	0.9989501640701667
+emissionprobs	4	8	H4k20me1.bam	1	0.0010498359298334176
+emissionprobs	4	9	Lsd1.bam	0	0.9677370436437688
+emissionprobs	4	9	Lsd1.bam	1	0.03226295635623115
+emissionprobs	5	0	H2az.bam	0	0.999361549727126
+emissionprobs	5	0	H2az.bam	1	6.384502728740088E-4
+emissionprobs	5	1	H3k36me3.bam	0	0.9996302113431869
+emissionprobs	5	1	H3k36me3.bam	1	3.697886568131476E-4
+emissionprobs	5	2	H3k4me1.bam	0	0.9996272696733123
+emissionprobs	5	2	H3k4me1.bam	1	3.7273032668773274E-4
+emissionprobs	5	3	H3k4me2.bam	0	0.9998685699375577
+emissionprobs	5	3	H3k4me2.bam	1	1.3143006244223534E-4
+emissionprobs	5	4	H3k4me3.bam	0	0.9995494032229968
+emissionprobs	5	4	H3k4me3.bam	1	4.505967770032096E-4
+emissionprobs	5	5	H3k79me2.bam	0	0.9999727081731702
+emissionprobs	5	5	H3k79me2.bam	1	2.729182682981363E-5
+emissionprobs	5	6	H3k9ac.bam	0	0.99991813490672
+emissionprobs	5	6	H3k9ac.bam	1	8.18650932801084E-5
+emissionprobs	5	7	H3k9me3.bam	0	0.9942530893934746
+emissionprobs	5	7	H3k9me3.bam	1	0.005746910606525462
+emissionprobs	5	8	H4k20me1.bam	0	0.9990114654280328
+emissionprobs	5	8	H4k20me1.bam	1	9.88534571967216E-4
+emissionprobs	5	9	Lsd1.bam	0	0.9845284392034569
+emissionprobs	5	9	Lsd1.bam	1	0.015471560796543063
+emissionprobs	6	0	H2az.bam	0	0.9979427119371186
+emissionprobs	6	0	H2az.bam	1	0.002057288062881334
+emissionprobs	6	1	H3k36me3.bam	0	0.9961140595177754
+emissionprobs	6	1	H3k36me3.bam	1	0.0038859404822245563
+emissionprobs	6	2	H3k4me1.bam	0	0.9976885517744924
+emissionprobs	6	2	H3k4me1.bam	1	0.002311448225507487
+emissionprobs	6	3	H3k4me2.bam	0	0.9997328319424825
+emissionprobs	6	3	H3k4me2.bam	1	2.6716805751742423E-4
+emissionprobs	6	4	H3k4me3.bam	0	0.9991586103544517
+emissionprobs	6	4	H3k4me3.bam	1	8.413896455483036E-4
+emissionprobs	6	5	H3k79me2.bam	0	0.999134195035263
+emissionprobs	6	5	H3k79me2.bam	1	8.658049647369738E-4
+emissionprobs	6	6	H3k9ac.bam	0	0.9996668736910015
+emissionprobs	6	6	H3k9ac.bam	1	3.3312630899846505E-4
+emissionprobs	6	7	H3k9me3.bam	0	0.9978949438857941
+emissionprobs	6	7	H3k9me3.bam	1	0.0021050561142059317
+emissionprobs	6	8	H4k20me1.bam	0	0.9833830501307328
+emissionprobs	6	8	H4k20me1.bam	1	0.01661694986926726
+emissionprobs	6	9	Lsd1.bam	0	0.9574706785303063
+emissionprobs	6	9	Lsd1.bam	1	0.04252932146969372
+emissionprobs	7	0	H2az.bam	0	0.9486041191997595
+emissionprobs	7	0	H2az.bam	1	0.05139588080024046
+emissionprobs	7	1	H3k36me3.bam	0	0.9272798013642537
+emissionprobs	7	1	H3k36me3.bam	1	0.07272019863574625
+emissionprobs	7	2	H3k4me1.bam	0	0.3874402651155989
+emissionprobs	7	2	H3k4me1.bam	1	0.6125597348844011
+emissionprobs	7	3	H3k4me2.bam	0	0.9481589970490086
+emissionprobs	7	3	H3k4me2.bam	1	0.05184100295099132
+emissionprobs	7	4	H3k4me3.bam	0	0.965551457741524
+emissionprobs	7	4	H3k4me3.bam	1	0.03444854225847608
+emissionprobs	7	5	H3k79me2.bam	0	0.9725804211426415
+emissionprobs	7	5	H3k79me2.bam	1	0.027419578857358396
+emissionprobs	7	6	H3k9ac.bam	0	0.9619728807189191
+emissionprobs	7	6	H3k9ac.bam	1	0.03802711928108089
+emissionprobs	7	7	H3k9me3.bam	0	0.9782713969390877
+emissionprobs	7	7	H3k9me3.bam	1	0.021728603060912184
+emissionprobs	7	8	H4k20me1.bam	0	0.9457497739612135
+emissionprobs	7	8	H4k20me1.bam	1	0.05425022603878656
+emissionprobs	7	9	Lsd1.bam	0	0.71896558617983
+emissionprobs	7	9	Lsd1.bam	1	0.2810344138201701
+emissionprobs	8	0	H2az.bam	0	0.967942515031462
+emissionprobs	8	0	H2az.bam	1	0.03205748496853799
+emissionprobs	8	1	H3k36me3.bam	0	0.7232929846329308
+emissionprobs	8	1	H3k36me3.bam	1	0.2767070153670692
+emissionprobs	8	2	H3k4me1.bam	0	0.27924832157098467
+emissionprobs	8	2	H3k4me1.bam	1	0.7207516784290153
+emissionprobs	8	3	H3k4me2.bam	0	0.8033794441534953
+emissionprobs	8	3	H3k4me2.bam	1	0.19662055584650473
+emissionprobs	8	4	H3k4me3.bam	0	0.9010421591090493
+emissionprobs	8	4	H3k4me3.bam	1	0.09895784089095076
+emissionprobs	8	5	H3k79me2.bam	0	0.07883481774634919
+emissionprobs	8	5	H3k79me2.bam	1	0.9211651822536508
+emissionprobs	8	6	H3k9ac.bam	0	0.8542642153044254
+emissionprobs	8	6	H3k9ac.bam	1	0.14573578469557447
+emissionprobs	8	7	H3k9me3.bam	0	0.988457352340403
+emissionprobs	8	7	H3k9me3.bam	1	0.01154264765959699
+emissionprobs	8	8	H4k20me1.bam	0	0.8690905758274606
+emissionprobs	8	8	H4k20me1.bam	1	0.13090942417253937
+emissionprobs	8	9	Lsd1.bam	0	0.8284189020433537
+emissionprobs	8	9	Lsd1.bam	1	0.17158109795664633
+emissionprobs	9	0	H2az.bam	0	0.999426035449996
+emissionprobs	9	0	H2az.bam	1	5.73964550004051E-4
+emissionprobs	9	1	H3k36me3.bam	0	0.8603522406484667
+emissionprobs	9	1	H3k36me3.bam	1	0.13964775935153328
+emissionprobs	9	2	H3k4me1.bam	0	0.955287004095728
+emissionprobs	9	2	H3k4me1.bam	1	0.04471299590427203
+emissionprobs	9	3	H3k4me2.bam	0	0.9998249789713659
+emissionprobs	9	3	H3k4me2.bam	1	1.750210286340349E-4
+emissionprobs	9	4	H3k4me3.bam	0	0.998596850533729
+emissionprobs	9	4	H3k4me3.bam	1	0.0014031494662709696
+emissionprobs	9	5	H3k79me2.bam	0	0.34164914473152097
+emissionprobs	9	5	H3k79me2.bam	1	0.6583508552684789
+emissionprobs	9	6	H3k9ac.bam	0	0.9980198726857471
+emissionprobs	9	6	H3k9ac.bam	1	0.0019801273142528303
+emissionprobs	9	7	H3k9me3.bam	0	0.983603351903754
+emissionprobs	9	7	H3k9me3.bam	1	0.01639664809624596
+emissionprobs	9	8	H4k20me1.bam	0	0.972134895631055
+emissionprobs	9	8	H4k20me1.bam	1	0.027865104368945053
+emissionprobs	9	9	Lsd1.bam	0	0.966720160960695
+emissionprobs	9	9	Lsd1.bam	1	0.03327983903930495
+emissionprobs	10	0	H2az.bam	0	0.9997564254060132
+emissionprobs	10	0	H2az.bam	1	2.4357459398681675E-4
+emissionprobs	10	1	H3k36me3.bam	0	0.7861777596512349
+emissionprobs	10	1	H3k36me3.bam	1	0.21382224034876518
+emissionprobs	10	2	H3k4me1.bam	0	0.9944308250039079
+emissionprobs	10	2	H3k4me1.bam	1	0.005569174996092115
+emissionprobs	10	3	H3k4me2.bam	0	0.9998416966080199
+emissionprobs	10	3	H3k4me2.bam	1	1.5830339198016577E-4
+emissionprobs	10	4	H3k4me3.bam	0	0.999252923300143
+emissionprobs	10	4	H3k4me3.bam	1	7.470766998569243E-4
+emissionprobs	10	5	H3k79me2.bam	0	0.9785904607837295
+emissionprobs	10	5	H3k79me2.bam	1	0.021409539216270566
+emissionprobs	10	6	H3k9ac.bam	0	0.9989804800228599
+emissionprobs	10	6	H3k9ac.bam	1	0.001019519977140126
+emissionprobs	10	7	H3k9me3.bam	0	0.9873417063494833
+emissionprobs	10	7	H3k9me3.bam	1	0.012658293650516732
+emissionprobs	10	8	H4k20me1.bam	0	0.989941324542622
+emissionprobs	10	8	H4k20me1.bam	1	0.010058675457378036
+emissionprobs	10	9	Lsd1.bam	0	0.9638198759500356
+emissionprobs	10	9	Lsd1.bam	1	0.03618012404996438
