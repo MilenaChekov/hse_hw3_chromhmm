@@ -34,6 +34,8 @@ cellmarkfiletable.txt
 
 "10" - это хорошо транскрибируемая днк. достаточно короткие участки после промотеров.
 
+<img width="339" alt="Снимок экрана 2022-03-26 в 20 26 00" src="https://user-images.githubusercontent.com/60537367/160250610-76acf833-29b3-4f53-893b-e10743c10da9.png">
+
 
 небольшой список литературы:
 [1] - Sharifi-Zarchi, A., Gerovska, D., Adachi, K. et al. DNA methylation regulates discrimination of enhancers from promoters through a H3K4me1-H3K4me3 seesaw mechanism. BMC Genomics 18, 964 (2017). https://doi.org/10.1186/s12864-017-4353-7
