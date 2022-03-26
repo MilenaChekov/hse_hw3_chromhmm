@@ -29,6 +29,6 @@ cellmarkfiletable.txt
 
 <img width="395" alt="Снимок экрана 2022-03-26 в 11 28 50" src="https://user-images.githubusercontent.com/60537367/160231453-aa018a2d-34cb-4388-8b40-cadddf96834b.png"> <img width="417" alt="Снимок экрана 2022-03-26 в 11 29 01" src="https://user-images.githubusercontent.com/60537367/160231455-8503f8f5-39bb-44ab-8d08-0f8cba231e27.png">
 
-
+"1" предположительно более слабый промотер, так как идет более короткими кчастками после "2", также 
 
 
