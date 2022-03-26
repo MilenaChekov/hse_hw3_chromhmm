@@ -35,7 +35,7 @@ cellmarkfiletable.txt
 
 "10" - это хорошо транскрибируемая днк. достаточно короткие участки после промотеров.
 
-<img width="339" alt="Снимок экрана 2022-03-26 в 20 26 00" src="https://user-images.githubusercontent.com/60537367/160250610-76acf833-29b3-4f53-893b-e10743c10da9.png">
+
 
 
 
