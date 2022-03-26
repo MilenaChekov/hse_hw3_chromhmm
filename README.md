@@ -2,6 +2,20 @@
 
 https://colab.research.google.com/drive/1OH53l6RjINW6nLAQfMe68xWRAZVJNlIh?usp=sharing - ссылка на гугл коллаб
 
+Метка - Файл
+1. H3k4me3 - http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneK562H3k4me3StdAlnRep1.bam
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+Контроль - http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneK562ControlStdAlnRep1.bam
+
+
 cellmarkfiletable.txt 
 <img width="478" alt="Снимок экрана 2022-03-24 в 15 00 01" src="https://user-images.githubusercontent.com/60537367/159911751-28cd4e48-6b10-4de1-8939-d14181dea377.png">
 
