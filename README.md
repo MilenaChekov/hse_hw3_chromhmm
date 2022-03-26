@@ -39,7 +39,5 @@ cellmarkfiletable.txt
 
 
 
-
-
 небольшой список литературы:
 [1] - Sharifi-Zarchi, A., Gerovska, D., Adachi, K. et al. DNA methylation regulates discrimination of enhancers from promoters through a H3K4me1-H3K4me3 seesaw mechanism. BMC Genomics 18, 964 (2017). https://doi.org/10.1186/s12864-017-4353-7
