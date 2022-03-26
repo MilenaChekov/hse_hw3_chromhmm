@@ -20,9 +20,8 @@ cellmarkfiletable.txt
 <img width="475" alt="Снимок экрана 2022-03-26 в 19 43 14" src="https://user-images.githubusercontent.com/60537367/160249168-736cab17-3c65-4548-9d66-f6775ba0e3b3.png">
 
 
-
-
-
+<img width="384" alt="Снимок экрана 2022-03-26 в 20 34 51" src="https://user-images.githubusercontent.com/60537367/160250890-4e8d4500-7f45-430e-9c99-60c21ab16191.png">
+<img width="398" alt="Снимок экрана 2022-03-26 в 20 35 14" src="https://user-images.githubusercontent.com/60537367/160250906-1a84848f-429e-4abd-917e-80856abd0346.png">
 
 
 
