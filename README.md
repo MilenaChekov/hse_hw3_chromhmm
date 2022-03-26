@@ -7,6 +7,8 @@ cellmarkfiletable.txt
 
 <img width="1027" alt="Снимок экрана 2022-03-24 в 14 52 59" src="https://user-images.githubusercontent.com/60537367/159911786-e4f55759-81c1-4500-897a-770dfb40e813.png">
 
+<img width="1009" alt="Снимок экрана 2022-03-26 в 11 27 35" src="https://user-images.githubusercontent.com/60537367/160231399-eb1c4068-6b8f-4df8-8d9b-4f968366d851.png">
+
 <img width="372" alt="Снимок экрана 2022-03-24 в 13 47 25" src="https://user-images.githubusercontent.com/60537367/159900195-ebfa4339-4116-419f-b975-aeb88e8ad6cb.png"> <img width="411" alt="Снимок экрана 2022-03-24 в 13 48 02" src="https://user-images.githubusercontent.com/60537367/159900235-8bf15ef7-ff59-42a2-a553-61f47ff4319e.png">
 
 
