@@ -13,7 +13,7 @@ https://colab.research.google.com/drive/1OH53l6RjINW6nLAQfMe68xWRAZVJNlIh?usp=sh
 8. H3k9ac
 9. H2az
 10. K562_Lsd1
-Контроль - http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneK562ControlStdAlnRep1.bam
+11. Контроль - http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneK562ControlStdAlnRep1.bam
 
 
 cellmarkfiletable.txt 
