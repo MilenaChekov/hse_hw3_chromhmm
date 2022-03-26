@@ -9,7 +9,9 @@ cellmarkfiletable.txt
 
 <img width="1009" alt="Снимок экрана 2022-03-26 в 11 27 35" src="https://user-images.githubusercontent.com/60537367/160231399-eb1c4068-6b8f-4df8-8d9b-4f968366d851.png">
 
-<img width="372" alt="Снимок экрана 2022-03-24 в 13 47 25" src="https://user-images.githubusercontent.com/60537367/159900195-ebfa4339-4116-419f-b975-aeb88e8ad6cb.png"> <img width="411" alt="Снимок экрана 2022-03-24 в 13 48 02" src="https://user-images.githubusercontent.com/60537367/159900235-8bf15ef7-ff59-42a2-a553-61f47ff4319e.png">
+<img width="395" alt="Снимок экрана 2022-03-26 в 11 28 50" src="https://user-images.githubusercontent.com/60537367/160231453-aa018a2d-34cb-4388-8b40-cadddf96834b.png">
+<img width="417" alt="Снимок экрана 2022-03-26 в 11 29 01" src="https://user-images.githubusercontent.com/60537367/160231455-8503f8f5-39bb-44ab-8d08-0f8cba231e27.png">
+
 
 
 
